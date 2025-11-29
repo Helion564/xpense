@@ -74,4 +74,11 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 
 ## Glimpse of the project:
 ![WhatsApp Image 2025-11-29 at 12 35 15_4a363a2e](https://github.com/user-attachments/assets/e9b223ec-2159-48f7-ab6a-0377e8cee7bc)
+![WhatsApp Image 2025-11-29 at 13 29 15_b40b38e4](https://github.com/user-attachments/assets/ccaf5c42-5747-43d2-baf4-3242218c2548)
+![WhatsApp Image 2025-11-29 at 13 29 15_f05b5ca9](https://github.com/user-attachments/assets/1141841d-68aa-47c1-bd93-bbf1ed8ec928)
+![WhatsApp Image 2025-11-29 at 13 29 15_150e6117](https://github.com/user-attachments/assets/3db68b3e-2483-4c49-a78a-35803c801333)
+![WhatsApp Image 2025-11-29 at 13 29 04_0aa1c89e](https://github.com/user-attachments/assets/18554026-3884-4a88-a0ad-2217ba449d51)
+
+
+
 
